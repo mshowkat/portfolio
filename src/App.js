@@ -29,8 +29,8 @@ function App() {
             <Link to= "/portfolio">Home</Link>
             <a href='https://mshowkat.github.io/resume/' rel='noopener noreferrer' target='blank'> Blog </a>
             <a href='https://mshowkat.github.io/resume/' rel='noopener noreferrer' target='blank'> Resume </a>
-            <Link to="/projects">Projects</Link>
-            <Link to="/contact">Contact Me</Link>
+            <Link to="/portfolio/projects">Projects</Link>
+            <Link to="/portfolio/contact">Contact Me</Link>
           </Navigation>
         </Drawer>
         <Content>
