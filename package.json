@@ -2,9 +2,10 @@
   "name": "portfolio-app",
   "version": "0.1.0",
   "private": true,
+  "main": "index.js",
   "homepage": "https://mshowkat.github.io/portfolio",
   "dependencies": {
-    "gh-pages": "^2.1.0",
+    "gh-pages": "^2.1.1",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-mdl": "^1.11.0",
